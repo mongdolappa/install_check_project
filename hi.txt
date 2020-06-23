@@ -1,0 +1,1 @@
+git remote add origin https://github.com/mongdolappa/install_check_project.git
